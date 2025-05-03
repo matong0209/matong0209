@@ -66,24 +66,20 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: stretch; width: 100%; margin: 0;">
-  <!-- 左图容器 -->
-  <div style="flex: 1; height: 230px; margin: 0 5px; overflow: hidden;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=matong0209&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
-      alt="stats graph"
-      style="height: 100%; width: 100%; object-fit: cover; border-radius: 8px;"
-    />
-  </div>
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px; width: 100%;">
+  <!-- 左图：强制指定卡片宽度 -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=matong0209&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&card_width=495"
+    alt="stats"
+    style="height: 220px; object-fit: contain;"
+  />
 
-  <!-- 右图容器 -->
-  <div style="flex: 1; height: 230px; margin: 0 5px; overflow: hidden;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matong0209&hide_title=true&hide_border=true&layout=compact&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"
-      alt="top langs"
-      style="height: 100%; width: 100%; object-fit: cover; border-radius: 8px;"
-    />
-  </div>
+  <!-- 右图：通过URL参数固定宽度 -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matong0209&hide_title=true&hide_border=true&layout=compact&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&card_width=300"
+    alt="languages"
+    style="height: 220px; object-fit: contain;"
+  />
 </div>
 
 
