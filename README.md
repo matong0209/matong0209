@@ -66,20 +66,23 @@
 
 ###
 
-<div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- 左图：GitHub 统计 -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=matong0209&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
     alt="stats graph"
     height="200"
-    style="float: left; margin-right: 1em;"
+    style="object-fit: contain;"
   />
+
+  <!-- 右图：语言分布 -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matong0209&hide_title=true&hide_border=true&layout=compact&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"
     alt="top langs"
-    height="137"
-    style="float: right; margin-left: 1em;"
+    height="200"
+    style="object-fit: contain;"
   />
-  <div style="clear: both;"></div>
 </div>
+
 
 
