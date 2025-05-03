@@ -70,4 +70,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=matong0209&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
 
+<img align="" height="137px"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?
+          username=matong0209
+          &hide_title=true
+          &hide_border=true
+          &layout=compact
+          &bg_color=0,EC6C6C,FFD479,FFFC79,73FA79
+          &theme=graywhite
+          &locale=cn" />
+
+
 ###
