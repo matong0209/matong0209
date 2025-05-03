@@ -2,7 +2,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=matong0209.matong0209&"  />
 </div>
 
-<h2 align="center">hey there 👋</h2>
 
 ###
 
