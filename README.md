@@ -17,7 +17,7 @@
 
 
 <h3 align="left">🌈  Blog</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.matong.site" target="_blank">www.matong.site</a>
 </p>
 
