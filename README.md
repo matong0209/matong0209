@@ -66,19 +66,19 @@
 
 ###
 
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px; width: 100%;">
-  <!-- 左图：强制指定卡片宽度 -->
+<div align="center" style="display: inline-block; white-space: nowrap;">
+  <!-- 左图：统计卡片 -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=matong0209&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&card_width=495"
-    alt="stats"
-    style="height: 220px; object-fit: contain;"
+    height="137px"
+    src="https://github-readme-stats.vercel.app/api?username=matong0209&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"
+    style="display: inline-block; margin-right: 5px;"
   />
 
-  <!-- 右图：通过URL参数固定宽度 -->
+  <!-- 右图：语言卡片 -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matong0209&hide_title=true&hide_border=true&layout=compact&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&card_width=300"
-    alt="languages"
-    style="height: 220px; object-fit: contain;"
+    height="137px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matong0209&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"
+    style="display: inline-block; margin-left: 5px;"
   />
 </div>
 
