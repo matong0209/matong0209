@@ -66,7 +66,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
   <!-- 左图：GitHub 统计 -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=matong0209&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
