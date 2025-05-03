@@ -17,9 +17,10 @@
 
 
 <h3 align="left">🌈  Blog</h3>
-<p align="left">
-  <a href="https://www.matong.site" target="_blank">www.matong.site</a>
-</p>
+<ul align="left" style="list-style: none; padding-left: 1.5em;">
+  <li><a href="https://www.matong.site" target="_blank">www.matong.site</a></li>
+</ul>
+
 
 
 <h3 align="left">🛠 Language and tools</h3>
