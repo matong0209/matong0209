@@ -66,40 +66,15 @@
 
 ###
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-  <!-- 左侧统计信息 -->
-  <div style="flex: 1 1 300px; min-width: 300px;">
-    <h2>开发动态</h2>
-    <ul style="list-style: none; padding-left: 20px;">
-      <li>🌟 森林星数（star）：</li>
-      <li>📝 累计提交数（commit）：</li>
-      <li>🔄 拉取请求数（PR）：</li>
-      <li>🐛 指出问题数（issue）：</li>
-      <li>📆 贡献于（去年）：</li>
-    </ul>
-  </div>
-
-  <!-- 右侧语言分布 -->
-  <div style="flex: 1 1 300px; min-width: 300px;">
-    <h2>技术栈分布</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-      <div style="flex: 1 1 200px;">
-        <h3>主要语言</h3>
-        <ul style="list-style: none; padding-left: 0;">
-          <li>🎨 CSS 55.09%</li>
-          <li>📄 HTML 23.88%</li>
-          <li>⚡ JavaScript 14.29%</li>
-        </ul>
-      </div>
-      <div style="flex: 1 1 200px;">
-        <h3>其他语言</h3>
-        <ul style="list-style: none; padding-left: 0;">
-          <li>🐍 Python 4.26%</li>
-          <li>☕ Java 2.48%</li>
-        </ul>
-      </div>
-    </div>
-  </div>
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px; padding: 5px 0;">
+  <img 
+    height="137px" 
+    src="https://github-readme-stats.vercel.app/api?username=matong0209&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&card_width=450" 
+  />
+  <img 
+    height="137px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matong0209&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&card_width=320" 
+  />
 </div>
 
 
