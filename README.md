@@ -66,5 +66,19 @@
 
 ###
 
+<div style="display: flex; flex-wrap: nowrap; gap: 8px; min-width: 785px;">
+  <!-- 左图：强制指定API版本 -->
+  <img
+    height="137px" 
+    src="https://github-readme-stats.vercel.app/api?username=matong0209&v=2&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=default&locale=cn&card_width=450"
+  />
+  
+  <!-- 右图：移除冲突参数 -->
+  <img
+    height="137px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matong0209&hide_border=true&layout=compact&card_width=320&bg_color=0,73FA79,73FDFF,D783FF"
+  />
+</div>
+
 
 
