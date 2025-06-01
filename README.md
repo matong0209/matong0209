@@ -86,15 +86,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/matong0209/matong0209/output/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/matong0209/matong0209/main/output/github-contribution-grid-snake-dark.svg"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/matong0209/matong0209/output/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/matong0209/matong0209/main/output/github-contribution-grid-snake.svg"
   >
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/matong0209/matong0209/output/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/matong0209/matong0209/main/output/github-contribution-grid-snake.svg"
   >
 </picture>
 
