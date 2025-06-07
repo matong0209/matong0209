@@ -9,9 +9,6 @@
 
 ###
 
-
-<p align="left">I'm from CHINA ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I like...</p>
-
 ###
 
 
